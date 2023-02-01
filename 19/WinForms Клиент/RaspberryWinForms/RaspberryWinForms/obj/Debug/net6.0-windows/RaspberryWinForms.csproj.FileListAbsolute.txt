@@ -1,0 +1,114 @@
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.exe
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.deps.json
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.runtimeconfig.json
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.dll
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.pdb
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.Form1.resources
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.GenerateResource.cache
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.AssemblyInfo.cs
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.CopyComplete
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.dll
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\refint\RaspberryWinForms.dll
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.pdb
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.genruntimeconfig.cache
+C:\Users\1\Desktop\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\ref\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.exe
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.deps.json
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.runtimeconfig.json
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\ref\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.pdb
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.Form1.resources
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.GenerateResource.cache
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.AssemblyInfoInputs.cache
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.AssemblyInfo.cs
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.CopyComplete
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\ref\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.pdb
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.genruntimeconfig.cache
+C:\Users\Серёжа\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.exe
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.deps.json
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.runtimeconfig.json
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.dll
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.pdb
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.Form1.resources
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.GenerateResource.cache
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.AssemblyInfo.cs
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.CopyComplete
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.dll
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\refint\RaspberryWinForms.dll
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.pdb
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.genruntimeconfig.cache
+C:\Users\1\Desktop\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\ref\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.exe
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.deps.json
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.runtimeconfig.json
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\ref\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.pdb
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.AssemblyReference.cache
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.Form1.resources
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.GenerateResource.cache
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.AssemblyInfoInputs.cache
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.AssemblyInfo.cs
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.CopyComplete
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\ref\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.pdb
+C:\Users\Серёжа\Desktop\Серегина малина\17\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.genruntimeconfig.cache
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.exe
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.deps.json
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.runtimeconfig.json
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\ref\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.pdb
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.AssemblyReference.cache
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.Form1.resources
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.GenerateResource.cache
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.AssemblyInfoInputs.cache
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.AssemblyInfo.cs
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.CoreCompileInputs.cache
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.CopyComplete
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\ref\RaspberryWinForms.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.pdb
+C:\Users\Серёжа\Desktop\Серегина малина\18\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.genruntimeconfig.cache
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.exe
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.deps.json
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.runtimeconfig.json
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.dll
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\RaspberryWinForms.pdb
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.Form1.resources
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.GenerateResource.cache
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.AssemblyInfo.cs
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.csproj.CopyComplete
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.dll
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\refint\RaspberryWinForms.dll
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.pdb
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\RaspberryWinForms.genruntimeconfig.cache
+C:\Users\1\Desktop\Прототипы малинки\19\WinForms Клиент\RaspberryWinForms\RaspberryWinForms\obj\Debug\net6.0-windows\ref\RaspberryWinForms.dll

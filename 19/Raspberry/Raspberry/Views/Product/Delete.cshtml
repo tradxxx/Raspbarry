@@ -1,0 +1,22 @@
+﻿@model Raspberry.Models.Product
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Product delete</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body>
+    <div class="text-center"><h4>Удаление продукта</h4></div>
+    <form asp-controller="Product" asp-action="Delete" method="post">
+        <div class="mb-3">
+            <label class="form-label" asp-for="Id">ID Product</label>
+            <input class="form-control" asp-for="Id" />
+        </div>
+        <button class="btn btn-primary" type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8201b7ab-526e-4620-bea3-fba9eef8ecc0": {
+      "ProjectGuid": "8201b7ab-526e-4620-bea3-fba9eef8ecc0",
+      "DisplayName": "Raspberry",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

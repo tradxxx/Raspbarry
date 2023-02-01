@@ -1,0 +1,39 @@
+﻿@model Raspberry.Models.Product
+@{
+    Layout = "_Layout";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>One Products</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body class="panel-body">
+    <h2>Нашли продукт</h2>
+    <table class="table">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Supplier</th>
+                <th scope="col">Name</th>
+                <th scope="col">Description</th>
+                <th scope="col">Price</th>
+                <th scope="col">Image</th>
+            </tr>
+        </thead>
+        <tbody>                     
+                <tr>
+                    <th scope="row">@Model.Id</th>
+                    <td>@Model.Supplier</td>
+                    <td>@Model.Name</td>
+                    <td>@Model.Description</td>
+                    <td>@Model.Price</td>
+                    <td>@Model.Image</td>
+                </tr>          
+        </tbody>
+    </table>
+
+    <p>Click <a class="nav-link" asp-controller="Home" asp-action="Index">here</a> to see home.</p>
+</body>
+</html>
