@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Product>
+@{
+    Layout = "_Layout";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>All Products</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body class="panel-body">
+    <h2>Здесь все товары</h2>
+    <table class="table">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Supplier</th>
+                <th scope="col">Name</th>
+                <th scope="col">Description</th>
+                <th scope="col">Price</th>
+                <th scope="col">Image</th>
+                <th scope="col">QR Code</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var r in Model)
+            {
+                <tr>
+                    <th scope="row">@r.Id</th>
+                    <td>@r.Supplier</td>
+                    <td>@r.Name</td>
+                    <td>@r.Description</td>
+                    <td>@r.Price</td>
+                    <td><img src="/image/@r.Image" width="70" height="70"/></td>
+                    <td><img src="../qr_code_product/qr-@r.Image" width="70" height="70"></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <p>Click <a class="nav-link" asp-controller="Home" asp-action="Index">here</a> to see home.</p>
+</body>
+</html>

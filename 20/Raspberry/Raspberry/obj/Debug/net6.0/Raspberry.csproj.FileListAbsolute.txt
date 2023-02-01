@@ -1,0 +1,497 @@
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\appsettings.json
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.staticwebassets.runtime.json
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.exe
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.deps.json
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.runtimeconfig.json
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.pdb
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.AssemblyInfo.cs
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.RazorAssemblyInfo.cache
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.RazorAssemblyInfo.cs
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\bundle\Raspberry.styles.css
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\projectbundle\Raspberry.bundle.scp.css
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.CopyComplete
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\refint\Raspberry.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.pdb
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.genruntimeconfig.cache
+C:\Users\1\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\ref\Raspberry.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Humanizer.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\1\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\appsettings.json
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.staticwebassets.runtime.json
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.exe
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.deps.json
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.runtimeconfig.json
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.pdb
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Humanizer.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.AssemblyInfo.cs
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.RazorAssemblyInfo.cache
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.RazorAssemblyInfo.cs
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\bundle\Raspberry.styles.css
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\projectbundle\Raspberry.bundle.scp.css
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.CopyComplete
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\refint\Raspberry.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.pdb
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.genruntimeconfig.cache
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\ref\Raspberry.dll
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets\msbuild.Raspberry.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets\msbuild.build.Raspberry.props
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Raspberry.props
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Raspberry.props
+C:\Users\1\Desktop\Прототипы малинки\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\appsettings.json
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.staticwebassets.runtime.json
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.exe
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.deps.json
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.runtimeconfig.json
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\ref\Raspberry.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.pdb
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.AssemblyReference.cache
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.AssemblyInfoInputs.cache
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.AssemblyInfo.cs
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.CoreCompileInputs.cache
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.RazorAssemblyInfo.cache
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.RazorAssemblyInfo.cs
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\bundle\Raspberry.styles.css
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\projectbundle\Raspberry.bundle.scp.css
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.CopyComplete
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\ref\Raspberry.dll
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.pdb
+C:\Users\Серёжа\Desktop\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.genruntimeconfig.cache
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\appsettings.json
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.staticwebassets.runtime.json
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.exe
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.deps.json
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.runtimeconfig.json
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\ref\Raspberry.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.pdb
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.AssemblyInfoInputs.cache
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.AssemblyInfo.cs
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.CoreCompileInputs.cache
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.RazorAssemblyInfo.cache
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.RazorAssemblyInfo.cs
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\bundle\Raspberry.styles.css
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\projectbundle\Raspberry.bundle.scp.css
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.CopyComplete
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\ref\Raspberry.dll
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.pdb
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.genruntimeconfig.cache
+C:\Users\Серёжа\Desktop\Серегина малина\17\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.AssemblyReference.cache
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\appsettings.json
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.staticwebassets.runtime.json
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.exe
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.deps.json
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.runtimeconfig.json
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\ref\Raspberry.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.pdb
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.AssemblyInfoInputs.cache
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.AssemblyInfo.cs
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.CoreCompileInputs.cache
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.RazorAssemblyInfo.cache
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.RazorAssemblyInfo.cs
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\bundle\Raspberry.styles.css
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\projectbundle\Raspberry.bundle.scp.css
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.CopyComplete
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\ref\Raspberry.dll
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.pdb
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.genruntimeconfig.cache
+C:\Users\Серёжа\Desktop\Серегина малина\18\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\appsettings.json
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.staticwebassets.runtime.json
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.exe
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.deps.json
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.runtimeconfig.json
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Raspberry.pdb
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Humanizer.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.AssemblyInfo.cs
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.RazorAssemblyInfo.cache
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.RazorAssemblyInfo.cs
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\bundle\Raspberry.styles.css
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\scopedcss\projectbundle\Raspberry.bundle.scp.css
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.csproj.CopyComplete
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\refint\Raspberry.dll
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.pdb
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\Raspberry.genruntimeconfig.cache
+C:\Users\1\Desktop\Прототипы малинки\19\Raspberry\Raspberry\obj\Debug\net6.0\ref\Raspberry.dll

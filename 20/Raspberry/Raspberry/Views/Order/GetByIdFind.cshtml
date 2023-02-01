@@ -1,0 +1,41 @@
+﻿@model Raspberry.Models.Order
+@{
+    Layout = "_Layout";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>One Order</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body class="panel-body">
+    <h2>Нашли заказ</h2>
+    <table class="table">
+        <thead class="table-dark">
+            <tr>
+                <th  scope="col">Id</th>
+                <th  scope="col">Phone_buyer</th>
+                <th  scope="col">Name_product</th>
+                <th  scope="col">Image_product</th>
+                <th  scope="col">Time_order</th>
+                <th  scope="col">Count</th>
+                <th  scope="col">Check_Order</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th scope="row">@Model.Id</th>
+                <td>@Model.Phone_buyer</td>
+                <td>@Model.Name_product</td>
+                <td>@Model.Image_product</td>
+                <td>@Model.Time_order</td>
+                <td>@Model.Count</td>
+                <td>@Model.Check_Order</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <p>Click <a class="nav-link" asp-controller="Home" asp-action="Index">here</a> to see home.</p>
+</body>
+</html>

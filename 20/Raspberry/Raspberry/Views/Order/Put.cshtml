@@ -1,0 +1,45 @@
+﻿@model Raspberry.Models.Order
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Put Order</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body>
+    <div class="text-center"><h4>Изменение заказа</h4></div>
+    <form asp-controller="Order" asp-action="Put" method="post">
+        <div class="mb-3">
+            <label class="form-label" asp-for="Id">Order Id:</label>
+            <input class="form-control" asp-for="Id" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label" asp-for="Phone_buyer">Order Phone_buyer:</label>
+            <input class="form-control" asp-for="Phone_buyer" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label" asp-for="Name_product">Order Name_product:</label>
+            <input class="form-control" asp-for="Name_product" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label" asp-for="Image_product">Order Image_product (xxx.png):</label>
+            <input class="form-control" asp-for="Image_product" />
+        </div>
+        <div class="mb-3">
+            <label class="form-label" asp-for="Count">Order Count:</label>
+            <input class="form-control" asp-for="Count" />
+        </div>        
+        <div class="mb-3">
+            <label class="form-label">Check_Order</label>
+            <select class="form-select form-select-lg mb-3" asp-for="Check_Order">
+                <option value="false">False</option>
+                <option value="true">True</option>
+            </select>
+        </div>
+        <button class="btn btn-primary" type="submit">Submit</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,45 @@
+﻿@model IEnumerable<Order>
+@{
+    Layout = "_Layout";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>All Orders</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body class="panel-body">
+    <h2>Здесь все заказы</h2>
+    <table class="table">
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Phone_buyer</th>
+                <th scope="col">Name_product</th>
+                <th scope="col">Image_product</th>
+                <th scope="col">Time_order</th>
+                <th scope="col">Count</th>
+                <th scope="col">Check_Order</th>
+                <th scope="col">QR Code</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var r in Model)
+            {
+                <tr>
+                    <th scope="row">@r.Id</th>
+                    <td>@r.Phone_buyer</td>
+                    <td>@r.Name_product</td> 
+                    <td><img src="/image/@r.Image_product"  width="70" height="70" /></td>
+                    <td>@r.Time_order.ToString()</td>
+                    <td>@r.Count</td>
+                    <td>@r.Check_Order.ToString()</td>
+                    <td><img src="../qr_code_order/qr-@r.Image_product" width="70" height="70">
+                </tr>
+            }
+        </tbody>
+    </table>
+    <p>Click <a class="nav-link" asp-controller="Home" asp-action="Index">here</a> to see home.</p>
+</body>
+</html>
